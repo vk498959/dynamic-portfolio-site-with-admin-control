@@ -4,4 +4,6 @@ Installation of this project
 step 1:- Download the repo.
 step 2:- extract
 step 3:- create database name "webmix" in your mysql database
-step 3:- import database from mysqldatabase folder which is available with this project.
+step 3:- import database from mysqldatabase folder which is available with this project
+#features
+#
