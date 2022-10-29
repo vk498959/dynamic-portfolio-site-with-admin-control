@@ -1,4 +1,6 @@
 # dynamic-portfolio-site-with-admin-control
+# Dynamic Portfolio Site
+
 This website is made with php,css,bootstrap,javascript,html
 Installation of this project
 step 1:- Download the repo.
